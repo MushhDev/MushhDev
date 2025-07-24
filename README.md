@@ -12,9 +12,6 @@
 ### 📊 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MushhDev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=MushhDev&theme=tokyonight)
-
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MushhDev&layout=compact&theme=tokyonight)
 
 
