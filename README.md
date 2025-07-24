@@ -43,7 +43,7 @@
 
 Puedes encontrarme y contactarme aquí:
 
-[![Discord](https://img.shields.io/badge/Discord-MushaDev%237027-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/ID)
+[![Discord](https://img.shields.io/badge/Discord-MushaDev%237027-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/872446689523400704)
 [![GitHub](https://img.shields.io/badge/GitHub-MushaDev-181717?style=flat-square&logo=github)](https://github.com/MushaDev)
 
 > ⚡ *Gracias por visitar mi perfil. ¡Siempre estoy abierto a colaborar y aprender juntos!*
