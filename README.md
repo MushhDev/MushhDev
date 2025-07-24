@@ -11,11 +11,11 @@
 
 ### 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MushaDev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MushhDev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=MushaDev&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MushhDev&theme=tokyonight)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MushaDev&layout=compact&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MushhDev&layout=compact&theme=tokyonight)
 
 
 ### 🚀 Tecnologías y herramientas
@@ -43,7 +43,7 @@
 
 Puedes encontrarme y contactarme aquí:
 
-[![Discord](https://img.shields.io/badge/Discord-MushaDev%237027-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/872446689523400704)
-[![GitHub](https://img.shields.io/badge/GitHub-MushaDev-181717?style=flat-square&logo=github)](https://github.com/MushaDev)
+[![Discord](https://img.shields.io/badge/Discord-MushhDev%237027-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/872446689523400704)
+[![GitHub](https://img.shields.io/badge/GitHub-MushhDev-181717?style=flat-square&logo=github)](https://github.com/MushhDev)
 
 > ⚡ *Gracias por visitar mi perfil. ¡Siempre estoy abierto a colaborar y aprender juntos!*
